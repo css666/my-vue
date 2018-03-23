@@ -108,29 +108,29 @@ export default {
       ],
       boardList: [
         {
-          title: '开放产品',
-          description: '开放产品是一款开放产品',
+          title: 'AI音响',
+          description: '听音乐、语音遥控家电的人工智能音箱',
           id: 'car',
           toKey: 'analysis',
           saleout: false
         },
         {
-          title: '品牌营销',
-          description: '品牌营销帮助你的产品更好地找到定位',
+          title: '小米5c',
+          description: '变焦双摄，拍人更美',
           id: 'earth',
           toKey: 'count',
           saleout: false
         },
         {
-          title: '使命必达',
-          description: '使命必达快速迭代永远保持最前端的速度',
+          title: '小米笔记本',
+          description: '带独立显卡的轻薄笔记本',
           id: 'loud',
           toKey: 'forecast',
           saleout: true
         },
         {
-          title: '勇攀高峰',
-          description: '帮你勇闯高峰，到达事业的顶峰',
+          title: '滑板车',
+          description: '自由穿行，一路美景',
           id: 'hill',
           toKey: 'publish',
           saleout: false
@@ -139,47 +139,47 @@ export default {
       newsList: [],
       productList: {
         pc: {
-          title: 'PC产品',
+          title: '手机数码',
           list: [
             {
-              name: '数据统计',
-              url: 'http://starcraft.com'
+              name: '小米MIX2',
+              url: ''
             },
             {
-              name: '数据预测',
-              url: 'http://warcraft.com'
+              name: '小米6',
+              url: ''
             },
             {
-              name: '流量分析',
-              url: 'http://overwatch.com',
+              name: '小米note3',
+              url: '',
               hot: true
             },
             {
-              name: '广告发布',
-              url: 'http://hearstone.com'
+              name: '小米5c',
+              url: ''
             }
           ]
         },
         app: {
-          title: '手机应用类',
+          title: '小米之家',
           last: true,
           list: [
             {
-              name: '91助手',
-              url: 'http://weixin.com'
+              name: '小米音响',
+              url: ''
             },
             {
-              name: '产品助手',
-              url: 'http://twitter.com',
+              name: '小米平衡车',
+              url: '',
               hot: true
             },
             {
               name: '智能地图',
-              url: 'http://maps.com'
+              url: ''
             },
             {
-              name: '团队语音',
-              url: 'http://phone.com'
+              name: '小米电饭煲',
+              url: ''
             }
           ]
         }

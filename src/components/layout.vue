@@ -25,10 +25,11 @@
 			</keep-alive>
 		</div>
 		<div class="app-foot">
-			<p>© 2016 fishenal MIT</p>
+			<p>©mi.com 京ICP证110507号 京ICP备10046444号 京公网安备11010802020134号 京网文[2014]0059-0009号 
+违法和不良信息举报电话：185-0130-1238，本网站所列数据，除特殊说明，所有数据均出自我司实验室测试</p>
 		</div>
 		<my-dialog :is-show="isShowAboutDialog" @on-close="closeDialog('isShowAboutDialog')">
-			<p>本报告在调研数据的基础上，采用定性与定量相结合的方式深入分析了专车市场发展的驱动因素与阻碍因素、专车市场背后的产业格局、专车企业的竞争格局、用户对专车市场的依赖程度、专车对其他交通工具运力的补充效应等，通过这五个章节的研究反映专车市场的发展态势和面临的问题。报告力求客观、深入、准确地反映中国专车市场发展情况，为政府、企事业单位和社会各界提供决策依据。 </p>
+			<p>小米商城是小米官方网站直营小米旗下所有产品，囊括小米手机系列小米MIX 2 、小米6、小米Note 3，红米手机系列红米Note 4X，智能硬件,配件及小米生活周边，同时为米粉提供客户服务及售后支持。 </p>
 		</my-dialog>
 
 		<my-dialog :is-show="isShowLogDialog" @on-close="closeDialog('isShowLogDialog')">

@@ -24,31 +24,31 @@ export default {
     return {
       products: [
         {
-          name: '数据统计',
+          name: '小米5c',
           path: 'count',
-          icon: require('../assets/images/1.png'),
+          icon: require('../assets/images/2.png'),
           active: false
         },
         {
-          name: '数据预测',
+          name: '小米笔记本',
           path: 'forecast',
           active: false
         },
         {
-          name: '流量分析',
+          name: 'AI音响',
           path: 'analysis',
           active: false
         },
         {
-          name: '广告发布',
+          name: '滑板车',
           path: 'publish',
           active: false
         }
       ],
       imgMap: {
-        '/detail/count': require("../assets/images/1.png"),
-        '/detail/forecast': require("../assets/images/2.png"),
-        '/detail/analysis': require("../assets/images/3.png"),
+        '/detail/count': require("../assets/images/2.png"),
+        '/detail/forecast': require("../assets/images/3.png"),
+        '/detail/analysis': require("../assets/images/1.png"),
         '/detail/publish': require("../assets/images/4.png")
       }
     }

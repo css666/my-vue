@@ -1,8 +1,9 @@
 <template>
   <div class="sales-board">
       <div class="sales-board-intro">
-        <h2>数据统计</h2>
-        <p>历史资料、科学实验、检验、统计等所获得的和用于科学研究、技术设计、查证、决策等的数值加以统计为解决方案做前期准备。</p>
+        <h2>小米5c</h2>
+        <p>光学变焦双摄，拍人更美 | 5.5" 大屏轻薄全金属
+骁龙八核处理器 | 4GB 大内存，最大 64GB 存储可选</p>
       </div>
       <div class="sales-board-form">
           <div class="sales-board-line">
@@ -48,7 +49,7 @@
       </div>
       <div class="sales-board-des">
         <h2>产品说明</h2>
-        <p>历史资料、科学实验、检验、统计等所获得的和用于科学研究、技术设计、查证、决策等的数值加以统计为解决方案做前期准备。</p>
+        <p>MIUI 闪电版、传送门功能、信息助手功能、照片搜索功能、分屏功能及 MIUI 去人去线功能,由于技术条件、开发进度等有所差异，以产品完成测试时间为准。正式支持机型将通过 MIUI 官方网站（www.miui.com）公布。具体配置参数会因手机版本不同存在差异。非特别指出，均为我司实验室数据、设计技术参数及供应商提供数据。全站数据实际情况会因测试软件版本、具体测试环境、具体版本不同，而略有差异。全站所展示结构图片，均为功能示意图，并非绝对实际结构，最终以实物为准。</p>
 
         <table class="sales-board-table">
           <tbody>
@@ -71,11 +72,6 @@
                   <td>
                       <div class="intro-pic">
                           <label>车辆物流</label>
-                      </div>
-                  </td>
-                  <td>
-                      <div class="intro-pic">
-                          <label>成人用品</label>
                       </div>
                   </td>
                   <td>
